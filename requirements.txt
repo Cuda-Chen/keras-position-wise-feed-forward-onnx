@@ -1,4 +1,4 @@
-keras
-keras2onnx
+keras~=2.2
+keras2onnx~=1.7.0
 keras-position-wise-feed-forward
 tensorflow
