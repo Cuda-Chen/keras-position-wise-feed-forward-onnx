@@ -1,4 +1,6 @@
-keras~=2.2
-keras2onnx~=1.7.0
+keras==2.2.5
+#git+https://github.com/microsoft/onnxconverter-common
+#git+https://github.com/onnx/keras-onnx
+keras2onnx
 keras-position-wise-feed-forward
-tensorflow
+tensorflow==1.15.0
