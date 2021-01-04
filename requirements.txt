@@ -1,2 +1,4 @@
 keras
 keras2onnx
+keras-position-wise-feed-forward
+tensorflow
